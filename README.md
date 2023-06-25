@@ -21,3 +21,4 @@ Create table Users
 ```
 
 2. Поменять в файле App.config некоторые данные, а именно путь к файлу с access логами Apache и информаия о бд
+Примечение: api будет в файле output.json
